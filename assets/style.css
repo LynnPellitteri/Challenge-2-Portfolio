@@ -1,18 +1,19 @@
-*   {
-    background-color: #034CBC;
-    justify-content: space-between;
-    color: white;font-size: large;
+
+* {
+    font-family:sans-serif white; 12px;
+    border: 30px;
+    background color:pink;
 
     }
 
 
-
 header {
-        display: flex;
+        display: inline;
         justify-content: space-between;
         background-color:#033E8C;
+        font: white:
 
-}
+        }
 
 h1 {
 
@@ -24,8 +25,9 @@ h1 {
     }
 
 nav {
+    display: left;
     background-color: #55B3D9;
-    justify-content: center;
+    justify-content: Right;
 
 
     }
