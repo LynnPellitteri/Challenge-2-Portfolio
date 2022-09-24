@@ -1,30 +1,33 @@
 * {
+    background-color: #034CBC;
 
-
-* {
-
-    
 }
 
 
 
 header {
-display: flex;
-justify-content: space-between;
+        display: flex;
+        justify-content: space-between;
+        background-color: ;#033E8C
 
 }
 
 h1 {
 
+    background-color: #034CBC;
+    
+
 
 }
 
 h2 {
+    background-color: #55B3D9;
 
 
 }
 
 h3{
+    background-color: #D9A441;
 
 
 }
